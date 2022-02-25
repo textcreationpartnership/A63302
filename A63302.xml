@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true account of the behaviour, confession and last dying speeches of the six criminals that were executed at Tyburn on Friday, the 12th of September, 1690</title>
+            <author>Smith, Samuel, 1620-1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63302</idno>
+            <idno type="STC">Wing T2351B</idno>
+            <idno type="STC">ESTC R492266</idno>
+            <idno type="EEBO-CITATION">17151235</idno>
+            <idno type="OCLC">ocm 17151235</idno>
+            <idno type="VID">105930</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63302)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105930)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1160:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true account of the behaviour, confession and last dying speeches of the six criminals that were executed at Tyburn on Friday, the 12th of September, 1690</title>
+                  <author>Smith, Samuel, 1620-1698.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Langley Curtis ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Account signed: Dated this 12th of Septem. 1690. Samuel Smith, Ordinary.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: stained, with print show-through and loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Executions and executioners --  England.</term>
+               <term>Crime --  England.</term>
+               <term>Criminals --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:105930:1"/>
+            <pb facs="tcp:105930:1" rendition="simple:additions"/>
+            <head>A True ACCOUNT of the BEHAVIOUR, CONFESSION, AND Laſt Dying SPEECHES Of the Six Criminals that were Executed at TYBURN, On <hi>Friday</hi> the <hi>12th</hi> of <hi>September,</hi> 1690.</head>
+            <p>AT the Seſſions in the <hi>Old Bayly,</hi> on the 5th. of <hi>Sep<g ref="char:EOLhyphen"/>tember,</hi> 1690. an eleven perſons received the Sen<g ref="char:EOLhyphen"/>tence of Death, ſix Men and five Women, of which three were Quick with Child.</p>
+            <p>On the next Day, being <hi>Saturday,</hi> the Ordinary viſited the condemned Criminal, praying with them, and earneſtly exhorting them to look back on the the Vicious Courſe of their Life, and to conſider for what ſecret Sins, not repented of, God had juſtly ſuffered them to commit the Crimes for which they were under the Sentence of Death.</p>
+            <p>They were not then ſo ſenſible of their ſinful and deplorable Condition; therefore Exhortation to Repentance was renewed, is alſo to prepare for the ſolemn Duties of the Sabbath.</p>
+            <p>On the Lord's Day, in the Forenoon, the Text was in the 5th of S. <hi>Matthew</hi>'s Goſpel and the 8th Verſe, <hi>Bleſſed are the pure in heart, for they ſhall ſee God.</hi>
+            </p>
+            <p>In the Afternoon a Sermon was preached on the 59 and 60th Verſes of the 119th <hi>Pſalm. I conſidered my ways and turned my feet into thy teſtimonies. I made haſte and delayed not to keep thy Commandments.</hi>
+            </p>
+            <p>From the former part of which Words were ſtated the ſyncere ſigns of a penitential Reflection on a ſinful Life.</p>
+            <p>The Divine Law caſts down all proud Thoughts, in a ſyncere Convict, ſo that he ſubmits to the ſearching Power thereof, that he may throughly underſtand his deceitful Heart. He loves the Law of God, becauſe it is very pure and ſtrict, as diſturbing falſe Peace in the Conſcience.</p>
+            <p>Where there is a Horror and Conviction there will be an un<g ref="char:EOLhyphen"/>feigned Grief for offending God's Holy Spirit, and an univerſal Hatred of all Sin as Sin, more as it pollutes than damns, put therefore your ſelves to Grief and Shame, chiefly for pervert<g ref="char:EOLhyphen"/>ing the Long-ſuffering of God, who hath waited ſo long to be gracious to you: you have already, in exceſs, turned away your Hearts from God to the indulging of your Luſts: It is high Time to abandon Satan's Service. When Sin by Cuſtom: becomes rooted, the Power and Kingdom of Satan is more confirmed. Reſolve therefore immediately to convert to God, late Repentance is not ſo acceptable, becauſe herein the Lord is leſs glorified. It is not ſo profitable to others, who loſe much Edification, by not ſetting early good Example before them. It is not ſo comfortable to your ſelves, not only becauſe you wreſtle with more difficulties, as the Heart is grown more obdurately ſtubborn, but becauſe you cannot ſo fully clear up your ſyncerity in turning your Feet unto God's Teſtimonies.</p>
+            <p>There is little tryal of the Truth of Repentance, when we are forced in to God by ſharp Afflictions or Agonies of Terror, at the <hi>Approach of Death.</hi> As ſoon as you reſolve to change your evil Courſe, all your endeavours will have Acceptance with God, he will be ready to help you, if you perſue your Advan<g ref="char:EOLhyphen"/>tages, the Work will grow eaſier, ſo that after a while you ſhall be enabled to run the raths of God's Commandments with pleaſure and delight: Let us therefore caſt away the Sin which ſo eaſily beſets us, let us ſpeedily and reſolutely run the race of Obedience ſet before us, <hi>looking unto Jeſus the Author and finiſh, or of our Faith;</hi> ſo ſhall we triumph in our very Conflicts. What unſpeakable Joy will this Teſtimony of our Conſcience produce, that we have ſo ſeriouſly conſidered our Ways as ſeriouſly to turn our Feet into God's Teſtimonies.</p>
+            <p>I now proceed to give an Account of the condemned Priſoners Behaviour, what courſe of Life they led, and whilſt penitential Diſpoſitions were in them to fit them for their Death.</p>
+            <p n="1">I. <hi>Franck Osborne,</hi> Condemned for robbing on the Highway: He was a Goldſmith, by Trade, in <hi>Cannon-ſtreet</hi> above 7. Years. He confeſt the Crime to the Ordinary, though he denied it at his Tryal. He ſaid that it much troubled his Conſcience that he drew on the other Accomplices to the ſaid Robbery, but would not declare their Names. He confeſt that for his many ſecret Sins, in which he lived without any Remorſe, and for keeping bad Company, God had now brought him to publick Shame: That he neglected praying and other Duties of Reli<g ref="char:EOLhyphen"/>gion, otherwiſe the Lord had kept him from robbing; but affirmed that this was the firſt Falt of that nature. He was very compliant with the Advice which I gave him to prepare for his Death.</p>
+            <p n="2">II. <hi>G— W—</hi> condemned for robbing on the Highway. He confeſt the Crime, I askt him what Employment he had been bred up to; he ſaid that he had ſerved the late King <hi>James</hi> as a Trooper, and had ſerved our preſent King <hi>William,</hi> but ſome difference ariſing 'twixt him and his ſuperior Officer, he quitted the Service about a quarter of the Year ſince, which he much blames himſelf for, becauſe an idle Life had expoſed him to robbing on the Highway. He was not ſo ſenſible at the firſt, yet afterward lamented the ill Courſe of his Life, and that he had given bad counſel and example to others.</p>
+            <p n="3">III. <hi>Thomas Yarrold,</hi> condemned for healing a Gelding: He confeſt the Fact. He had exerciſed Husbandry, in the Service of a Miniſter, for three Years. He ſays, It repents him that he did not follow the good Counſel of his religious Maſter, but left him and went to Sea, afterwards being deſirous of an eaſie Life, he quitted that Employment and joyned with bad Com<g ref="char:EOLhyphen"/>pany, till he brake the Sabbath: He ſeldom prayed that God would keep him from the Wickedneſs of his own Heart, ſo he grew more diſſolute.</p>
+            <p n="4">IV. <hi>John Daynter,</hi> condemned for breaking the Houſe of one Mr. <hi>Joſeph Yates,</hi> in the Day-time. He was formerly a Shoema<g ref="char:EOLhyphen"/>ker, ſet up for himſelf, but neglected his Trade and joyned himſelf to merry Company, as himſelf expreſt it, they ſpent freely and bore his ſhare moſt what. He ſaid, That he had ſinned againſt the clear and ſtrong Convictions of his Conſcience, had made many Vows to God of Reforming his Life, but had broken them: Yet in this Conceſſion, though he wept, he ac<g ref="char:EOLhyphen"/>knowledged that his Tears and utmoſt Repentance could not cleanſe away the Guilt and Pollution of his Sins. He ſaid that he durſt not truſt his own Heart, his relenting for Sin is ſo late and ſlight, and praies to God, that his ſorrow, may not be more for the Fear of Death, than that he hath offended a Graci<g ref="char:EOLhyphen"/>ous and long ſuffering God. I hope he was penitent.</p>
+            <p n="5">V. <hi>James Smith,</hi> condemned for robbing in the High way, with <hi>G— W—;</hi> when he was eyed up, in order to receive the Sentence of Death, he exceedingly misbehaved himſelf: The Ordinary laid this very much to his Conſcience, ſo that he deſired him, to publiſh his deep Sorrow for it, and that he begs the Pardon of the Court for his mad and wicked Carriage. He confeſſes the Crime, and that his Friends bred him up to no Employment, ſo he hath been expoſed to many Temptati<g ref="char:EOLhyphen"/>ons
+<pb n="2" facs="tcp:105930:2"/>of Robbing, and hath ſeveral Times uſed ſuch a wicked Courſe, to furniſh himſelf with Meny for his Exceſſes. He ſolemnly affirmed, that he never killed any Man: That the is very ſenſible how he hath drawn on others to ſinning. He ſaid that he had been very diſobedient to his Parents, and therefore God juſtly brought him to this untimely and shameful of Death: That he diſpiſed ſtrictneſs of Life, was guilty of Swearing, Intemperance, breaking of the Sabbath, and living like an Athiſt; but now his Conſcience is wounded in the remem<g ref="char:EOLhyphen"/>brance of all his Impieties, yet he hopes, through God's Mercy, that he ſhall be daily more contrite in Heart, and prepared for his Death.</p>
+            <p n="6">VI. <hi>Thomas Cox,</hi> condemned for robbing <hi>Thomas Boucher</hi> on <hi>Hounſlow heath:</hi> He denied the Crime as his Tryal, but confeſt it ſince to the Ordinary. After ſeveral Viſits and earneſt Ex<g ref="char:EOLhyphen"/>hortations to repent, he confeſſed that he had been in <hi>Newgate</hi> about four Years ſince, and was condemned for killing a Man. I told him, That had he taken warning from his narrow eſcap<g ref="char:EOLhyphen"/>ing the Sentence of Death then, or had he been truly penitent for ſhedding Innocent Blood, which cries loud to Heaven for Vengeance, he would not have contracted another faral Crime. He only acknowledged in general terms, That he had been a great ſinner, that he had led an idle Life, which betrayed him to many ſinful Exceſſes. He gave me juſt cauſe to fear he was bred up a Papiſt, or had turned ſuch for worldly Intereſt: Therefore I uſed many Arguments to convince him, how dan<g ref="char:EOLhyphen"/>gerous it is to die in a falſe Religion, or in not living up to the Purity and Power of the Proteſtant. When I viſited him in the Evening before his Death, I askt him whether he were a Papiſt, he ſo little regarded what I prayed or exhorted him unto, he made me no anſwer, and ſeemed not much concerned, there<g ref="char:EOLhyphen"/>fore I ſaid at parting; the Lord undeceive you as to any falſe Hopes of Heaven.</p>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Yates</hi> and <hi>Mary Jones</hi> were very penitent, and are re<g ref="char:EOLhyphen"/>prieved.</p>
+            <p>
+               <hi>This is the whole Account which I can give of this Seſ<g ref="char:EOLhyphen"/>ſion.</hi>
+            </p>
+            <closer>
+               <dateline>Dated <date>this <hi>12th</hi> of <hi>Septem.</hi> 1690.</date>
+               </dateline>
+               <signed>
+                  <hi>Samuel Smith</hi> Ordinary.</signed>
+            </closer>
+         </div>
+         <div type="account">
+            <p>On <hi>Friday</hi> about 10 a Clock they were all 6 con<g ref="char:EOLhyphen"/>veyed in 2 Carts to the Place of Execution, where being all faſtned to the Tree, they were (in good order) exhorted to renew their Repentance, and to prepare themſelves for their ſo ſuddain Change by Death, Mr. Ordinary taking great Pains in Prayer to God for their Souls Salvation, uſing ſeveral cogent Arguments to prepare them to a free Confeſſion unto Almighty God of all their former miſpent Lives; to which they all readily attended except <hi>Cox</hi> and <hi>W—</hi> who were very impertinent in their Behaviour, and undecently and irreverently reſlected upon the Go<g ref="char:EOLhyphen"/>vernment; for which the Ordinary gave them a ſud<g ref="char:EOLhyphen"/>dain and a ſevere Check, and would not ſuffer them to proceed.</p>
+            <p>
+               <hi>James Smith</hi> carried himſelf more moderate, and confeſſed, That he was Guilty of the Crime for which he died, but that he never committed any Murther, deſiring all the Spectators to take Warning by his un<g ref="char:EOLhyphen"/>timely End; and that they would be obedient to Pa<g ref="char:EOLhyphen"/>rents, for that Sin was the beginning of his Ruine.</p>
+            <p>
+               <hi>John Daynter</hi> was exceeding penitent: He was a young Man, yet it is to be hoped that God hath had Mercy on his Soul, for he freely confeſſed, That he had been guilty of very great Sins, as Sabbath break<g ref="char:EOLhyphen"/>ing, Swearing, Lying, Drunkenneſs, and a great Whoremonger: But withal he declared before God and the World, That he never wronged any Man before this Time. He cried mightily to God for Mercy, and begged all young Men to take ſpeedy Warning by his untimely End; earneſtly deſiring all Men preſent to pray for him: He very penitently and humbly joyned in the Prayers of the Church, as alſo was very deſirious to be inſtructed in any thing that might contribute to his Salvation, and very meekly ſubmitted to the ſtroak of ſo ſuddain a Death But not without acknowledging, That he was in<g ref="char:EOLhyphen"/>debted to ſeveral perſons in divers Sums of Mony, but ſaying, He was now altogether uncapable of making Reſtitution; he hoped that they would remit him, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Tho. Yarrold</hi> ſaid, That he offered to ſell a Horſe to one Mr. <hi>Ball,</hi> but ſaid he did not ſteal it, before he was brought to <hi>Tyburn;</hi> but there he confeſt <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> but he ſaid he did not know the Owners Name, b<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> deſired the Horſe might be returned to <hi>Flitton,</hi> nea<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Ampthill Town</hi> in <hi>Bedfordſhire,</hi> And ſaid he was very ſorry he had done ſo much wrong, <hi>&amp;c.</hi> acknow<g ref="char:EOLhyphen"/>ledging withal, That he had married an honeſt Wife, but had ſome time ſince put her away; and had been of late in Adultery. He deſired the people to pray for him, and take warning by him.</p>
+            <p>
+               <hi>Francis Osborne</hi> was very ſorry that he had diſgrac'd ſo good and ingenious a profeſſion as his was; decla<g ref="char:EOLhyphen"/>ring that this Crime was the firſt that ever he did of that nature, but would not freely acknowledg, nor give any account of the other two, who were con<g ref="char:EOLhyphen"/>cerned with him in the Robbery.</p>
+            <p>After this Mr. Ordinary prayed with them, and ſang a Pſalm of Penitency; to which <hi>Daynter, Yarrold, Osborn,</hi> and <hi>Smith</hi> gave an attentive Ear. After Mr. Ordinary taking his final leave of them, and re<g ref="char:EOLhyphen"/>commending them all to God's Grace and Mercy, they were all fix immediately turned off.</p>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENTS.</head>
+            <p>☞ There is now Publiſhed, <hi>The Politicks of</hi> Europe, or, <hi>A Rational Journal concerning the preſent Affairs of the Time,</hi> giving an Account of the preſent, State of <hi>Europe,</hi> with regard to its Two moſt Active Powers, <hi>William</hi> the Third, and <hi>Lewis</hi> the Four<g ref="char:EOLhyphen"/>teenth, price <hi>6d.</hi> The Continuation of which <hi>Journal</hi> will be now publiſhed every <hi>Saturday</hi> in a ſingle Sheet. Sold by <hi>Langley Curtiſs,</hi> at <hi>Sir Edmondbury God<g ref="char:EOLhyphen"/>fry's Head,</hi> near <hi>Fleet bridge.</hi>
+            </p>
+         </div>
+         <div type="publishers_advertisement">
+            <p>☞ Theſe are to give Notice, That if any perſon hath occaſion to ſell any Library, or parcel of Books, either in large or ſmall Quantities, they may receive ready Money for them, upon View thereof, by <hi>Langley Cur<g ref="char:EOLhyphen"/>tiſs</hi> at Sir <hi>Edmondbury Godfrey</hi>'s <hi>Head</hi> near <hi>Fleet-bridge.</hi>
+            </p>
+         </div>
+         <div type="physicians_advertisement">
+            <p>☞ Theſe are to give Notice to all Perſons, for the Benefit of the Publick, That Mr. <hi>Elmy,</hi> Profeſſor of Phyſick, and Operator, of known Integrity, and above <hi>25</hi> Years practice, Liveth at the <hi>Blue Ball</hi> in <hi>Whale-Bone Court,</hi> at the Lower End of <hi>Bartholomew-lane</hi> by the <hi>Royal Exchange,</hi> who moſt ſafely and expe<g ref="char:EOLhyphen"/>ditiouſly Cures <hi>Deafneſs</hi> and <hi>Noiſe in the Ears</hi> in any of what Age ſoever, (if Curable) and at firſt Sight, by Inſpection, Reſolves the Patient if ſo or not, as moſt Eminent Perſons of Quality in this City can Teſtifie. He hath likewiſe a moſt excellent Gargariſm or Mouth-Water, which will make black or yellow Teeth as white as Ivory, in a few times uſing; and it will certainly cure the Scurvy, and all other Diſeaſes incident to the Mouth, Teeth and Gums, which in many perſons cauſeth a ſtink<g ref="char:EOLhyphen"/>ing Breath, which (by the Bleſſing of God, and the uſe of this Water) I dare affirm you will be freed from thoſe Maladies beforementioned, with Directions. His Pills only prepared for the <hi>French</hi> Diſeaſe, and the <hi>Running of the Reins,</hi> may be had in Boxes of ſeveral prices, with other <hi>Venereal Arcana's,</hi> as occaſion ſerves.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London</hi> Printed for <hi>Langley Curtis</hi> at Sir <hi>Edmondbury Godfrey's Head</hi> near <hi>Fleet-Bridg 1690</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
